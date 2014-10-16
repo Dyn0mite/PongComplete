@@ -1,0 +1,4 @@
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2RaySteele\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2RaySteele\Breakout\obj\x86\Debug\Breakout.pdb

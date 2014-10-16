@@ -1,0 +1,14 @@
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\bin\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\obj\x86\Debug\Breakout.Form1.resources
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\obj\x86\Debug\Breakout.Properties.Resources.resources
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\obj\x86\Debug\Breakout.csproj.GenerateResource.Cache
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Breakout\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.pdb
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\bin\Debug\Breakout.exe
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\bin\Debug\Breakout.pdb
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.Form1.resources
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.Properties.Resources.resources
+C:\Users\Chuck\Desktop\School\Programming 2\Pongv2\Breakout\obj\x86\Debug\Breakout.csproj.GenerateResource.Cache
